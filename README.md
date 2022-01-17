@@ -1,4 +1,4 @@
-<body style="background-color: conic-gradient(from .5turn at 50% 110%, white, orange)">
+
 <h1 align="center">Hi 👋, I'm Adonay</h1>
 <h3 align="center">A Petroleum Engineer passionate about web development</h3>
 
