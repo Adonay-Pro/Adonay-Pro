@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adonay</h1>
 <h3 align="center">A Petroleum Engineer and passionate frontend web developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **"To do App"** check the link: https://www.youtube.com/watch?v=NzT_w3YHpuI
 
-- 🌱 I’m currently learning more about  **HTML, CSS and JS**
+- 🌱 I’m currently learning more about  **Javascript, Java**
 
 - 👯 I’m looking to collaborate on **more projects with another people**
 
