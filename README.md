@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adonay Rhenals</h1>
-<h3 align="center">Computer Science bachelor student with a degree in Petroleum engineering and self-taught programmer with knowledge in JAVA, and other technologies.</h3>
+<h3 align="center">Computer Science bachelor student with a degree in Petroleum engineering and self-taught programmer with knowledge in JAVA,JS, databases, QA and other technologies.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
